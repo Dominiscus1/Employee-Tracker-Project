@@ -21,10 +21,12 @@
   mysql, and inquirer
 
   ## Preview
-  
+  https://user-images.githubusercontent.com/55556978/151104703-748410df-006c-47b6-9885-3e68935f42fb.mp4
+
+
 
   ## Launch
-
+  https://dominiscus1.github.io/Employee-Tracker-Project/
   ## Contributors
   Anthony Jimenez
 
